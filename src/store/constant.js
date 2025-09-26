@@ -1,5 +1,5 @@
 export default {
-    apiKey: 'AIzaSyAX-ZeAs6WblvK8u27ep-FHViZ10Q4SmQA',
+    apiKey: 'WebAPiKeY',
     errorMessage: {
         EMAIL_EXISTS: 'Email already exists',
         OPERATION_NOT_ALLOWED: 'signup blocked for new users! try again later',
